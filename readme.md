@@ -59,6 +59,13 @@ Open `index.html` in your preferred web browser.
 
 ## 📸 Preview
 
+## 📸 Preview
+
+![Project Preview](preview.png)
+<p align="center">
+  <img src="preview.png" alt="Project Preview" width="800">
+</p>
+
 The interface features:
 
 - Moon Photography branding
