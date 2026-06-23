@@ -1,22 +1,27 @@
-# 📸 PHOTO-GALLERY-NAVBAR
+# 📸 Moon Photography Sidebar UI
 
-A modern and responsive sidebar navigation menu for a photography website, built using HTML and CSS. This project features a sleek UI with smooth hover effects and an elegant design suitable for photography portfolios and galleries.
+A modern and responsive sidebar navigation menu for a photography website, built using HTML and CSS. The project features a sleek dark theme, smooth hover effects, and an elegant glassmorphism-inspired design.
+
+<p align="center">
+  <img src="preview.png" alt="Project Preview" width="800">
+</p>
 
 ## ✨ Features
 
 - 📷 Responsive sidebar navigation
-- 🎨 Clean and modern design
+- 🎨 Modern glassmorphism UI
 - ⚡ Smooth hover effects and transitions
-- 🖼️ Background image support
+- 🌙 Dark-themed design
+- 📱 Fully customizable
 - 💻 Built with pure HTML and CSS
-- 🔧 Easy to customize
 
 ## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
+- Font Awesome
 
-## 📁 Project Structure
+## 📂 Project Structure
 
 ```
 PHOTO-GALLERY-NAVBAR/
@@ -24,36 +29,43 @@ PHOTO-GALLERY-NAVBAR/
 ├── index.html
 ├── style.css
 ├── photo.jpg
+├── preview.png
 └── README.md
 ```
 
 ## 🚀 Getting Started
 
-1. Clone the repository:
+Follow these steps to run the project locally.
+
+### Clone the repository
 
 ```bash
 git clone https://github.com/lavanyagoyal08/PHOTO-GALLERY-NAVBAR.git
 ```
 
-2. Navigate to the project directory:
+### Navigate to the project folder
 
 ```bash
 cd PHOTO-GALLERY-NAVBAR
 ```
 
-3. Open `index.html` in your browser.
+### Run the project
 
-## 📸 Preview
-
-Add a screenshot of your project here:
-
-![Project Preview](preview.png)
-
-> Upload a screenshot named `preview.png` to your repository and it will automatically appear here.
+Open `index.html` in your preferred web browser.
 
 ## 🌐 Live Demo
 
-Coming soon with GitHub Pages!
+🔗 https://lavanyagoyal08.github.io/PHOTO-GALLERY-NAVBAR/
+
+## 📸 Preview
+
+The interface features:
+
+- Moon Photography branding
+- Sidebar menu with icons
+- Smooth animations
+- Social media links
+- Camera-themed background image
 
 ## 👩‍💻 Author
 
@@ -61,14 +73,12 @@ Coming soon with GitHub Pages!
 
 - GitHub: [@lavanyagoyal08](https://github.com/lavanyagoyal08)
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
 ## ⭐ Support
 
-If you like this project, consider giving it a ⭐ on GitHub!
+If you found this project helpful, please consider giving it a ⭐ on GitHub!
 
 ---
 
+<p align="center">
 Made with ❤️ using HTML & CSS
+</p>
